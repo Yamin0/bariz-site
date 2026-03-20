@@ -1,0 +1,22 @@
+node_modules/
+temporary screenshots/
+yupoo-catalog-raw.json
+catalog-summary.json
+_cat_counts.json
+_products_array.js
+*.output
+.claude/
+prb*.png
+prb 3 .png
+Capture d'écran*.png
+inspiration.png
+compiled.css
+input.css
+dist/
+bariz-site.zip
+fix_imgs.py
+products.js
+build-catalog.mjs
+fix-titles.mjs
+generate-html.mjs
+scrape-yupoo.mjs
